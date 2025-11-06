@@ -40,3 +40,7 @@ To analyze IPL match data using data visualization tools (like Power BI, Tableau
 
 <img width="2596" height="1580" alt="Dashboard 1" src="https://github.com/user-attachments/assets/4fac156e-2123-45c0-97c4-149bcc6e6c8e" />
 
+
+🏁 Conclusion 
+The IPL Analysis Dashboard provides clear insights into team and player performances, revealing key trends and patterns across seasons. It highlights how data visualization can make IPL statistics easier to understand and support data-driven decision-making in sports.
+
