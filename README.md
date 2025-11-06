@@ -37,3 +37,6 @@ To analyze IPL match data using data visualization tools (like Power BI, Tableau
 
 ##Deshboard 
 -- <a hrep="https://github.com/ravisahu124h-create/IPL-ANALYSIS-_Tableau_Dashboard/blob/main/Dashboard%201.png" >viewDashboard</a>
+
+<img width="2596" height="1580" alt="Dashboard 1" src="https://github.com/user-attachments/assets/4fac156e-2123-45c0-97c4-149bcc6e6c8e" />
+
